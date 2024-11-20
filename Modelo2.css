@@ -1,0 +1,32 @@
+body{
+    background-image: url(Teste01.jpeg);
+    background-size: 2000px;
+
+}
+
+header{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 20px;
+   
+}
+p {
+    font-size: 30px;
+    color: blueviolet;
+}
+h2 {
+    font-size: 40px;
+}
+h3 {
+    font-size: 40px;
+}
+h5 {
+    font-size: 40px;
+    color: rgb(30, 255, 0);
+}
+#inputs-container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;  
+} 
